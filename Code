@@ -283,7 +283,7 @@
 %-----------PROJECTS-----------
 
 
-\section{EPC Projects (Oil /& Gas)}
+\section{EPC Projects (Oil \& Gas)}
 
 
   \resumeSubHeadingListStart
@@ -308,9 +308,9 @@
 
          \resumeItem{Performed equipment sizing and thermodynamic calculations including compressor power estimation (~3 MW), refrigeration duty (~4 MW), amine circulation rate, reboiler duty, separator sizing, and total plant utility demand assessment (~7 MW).}
 
-         \resumeItem{Prepared Process Design Basis (PDB), Process Flow Diagrams (PFDs), equipment duty specifications, and preliminary control philosophy including anti-surge protection and ESD integration in compliance with API/ASME standards.}
+         \resumeItem{Prepared Process Design Basis (PDB), Process Flow Diagrams (PFDs), P\&IDs, H\&MB, Utility calculations \& Summary, equipment specifications, and preliminary control philosophy including anti-surge protection and ESD integration in compliance with API/ASME standards.}
          
-         \resumeItem{Executed techno-commercial evaluation of LPG recovery, Mini-LNG, and CNG monetization routes; selected LPG extraction based on optimized CAPEX (USD 40–55 MM), projected IRR of 22–30\%, and 3–4 year payback period.}
+         \resumeItem{Executed techno-commercial evaluation of GTW, GTL, LPG recovery, Mini-LNG, and CNG monetization routes.}
          
          \resumeItem{Developed order-of-magnitude CAPEX estimate (±30\%) and 10-year financial model with sensitivity analysis on gas composition variability and LPG price fluctuations to support investment-grade feasibility and NGFCP compliance.}
 
