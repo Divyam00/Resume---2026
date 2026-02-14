@@ -291,9 +291,37 @@
 
     \resumeSubheading{Utthunga Technologies}{April 2025 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India / Houston, TX, USA}
 
+    \resumeSubHeadingListEnd
+
+\resumeSubHeadingListStart
+
+
+    \resumeSubheading{Flare Gas Recovery (Concept \& FEED)}{July 2025 - Sept 2025}{Client - Conoil Plc, Nigeria}{Obiafu–Obrikom Cluster, Nigeria | NGFCP Development}
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Led feasibility study and Front-End Engineering Design (FEED) for a 15 MMSCFD modular Flare Gas Recovery and LPG Extraction Facility under NGFCP, defining process design basis, peak capacity of 22 MMSCFD, and 40\% turndown capability to ensure operational flexibility and commercial viability.}
+         
+         \resumeItem{Developed integrated Aspen HYSYS simulation model covering multi-stage compression (1–35 barg), MDEA amine sweetening, TEG dehydration, and refrigeration-based NGL recovery; generated detailed Heat \& Material Balance and forecasted LPG production of ~80 TPD.}
+
+         \resumeItem{Performed equipment sizing and thermodynamic calculations including compressor power estimation (~3 MW), refrigeration duty (~4 MW), amine circulation rate, reboiler duty, separator sizing, and total plant utility demand assessment (~7 MW).}
+
+         \resumeItem{Prepared Process Design Basis (PDB), Process Flow Diagrams (PFDs), equipment duty specifications, and preliminary control philosophy including anti-surge protection and ESD integration in compliance with API/ASME standards.}
+         
+         \resumeItem{Executed techno-commercial evaluation of LPG recovery, Mini-LNG, and CNG monetization routes; selected LPG extraction based on optimized CAPEX (USD 40–55 MM), projected IRR of 22–30\%, and 3–4 year payback period.}
+         
+         \resumeItem{Developed order-of-magnitude CAPEX estimate (±30\%) and 10-year financial model with sensitivity analysis on gas composition variability and LPG price fluctuations to support investment-grade feasibility and NGFCP compliance.}
+
+
 
     \resumeSubHeadingListEnd
- 
+
+
+      \resumeItemListEnd
+
+
 
   \resumeSubHeadingListStart
 
@@ -312,7 +340,7 @@
         \resumeItem{Developed process models to analyze different operating scenarios and identify opportunities for efficiency improvement and cost reduction.}
 
 
-        \resumeItem{Prepared key engineering deliverables including PFDs, P/&IDs, Mass/& Energy Balances, and equipment datasheets.}
+        \resumeItem{Prepared key engineering deliverables including PFDs, P\&IDs, Mass\& Energy Balances, and equipment datasheets.}
         
         \resumeItem{Conducted technical feasibility assessments and supported scale-up evaluation for pilot-to-commercial deployment.}
         
@@ -326,7 +354,7 @@
 
   \resumeSubHeadingListStart
 
-    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck) (Honeywell)}{June 2025 - June 2025}{Client - Honeywell, USA}{MOL Hungarian Oil company, Budapest, HU }
+    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck)}{June 2025 - June 2025}{Client - Honeywell, USA}{MOL Hungarian Oil company, Budapest, HU }
 
 
       \resumeItemListStart
@@ -368,7 +396,7 @@
   \resumeSubHeadingListStart
 
 
-\section{Brown field & Grean field Projects (Chemicals)}
+\section{Brown field \& Grean field Projects (Chemicals)}
 
 
  
