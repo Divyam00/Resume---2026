@@ -183,7 +183,7 @@
 
     \resumeItem{Led Concept Development, Feasibility Studies, FEED, and Detailed Engineering of Oil \& Gas EPC projects.}
 
-       \resumeItem{Developed and reviewed Process Design Basis, process philosophies, engineering guidelines, and ensured compliance with applicable codes, standards, and client specifications through vendor document reviews.}
+    \resumeItem{Developed and reviewed Process Design Basis, process philosophies, engineering guidelines, and ensured compliance with applicable codes, standards, and client specifications through vendor document reviews.}
 
     \resumeItem{Prepared and reviewed key engineering deliverables including PFDs, P\&IDs, Heat \& Material Balances, process datasheets, line sizing calculations, and utility summaries.}
 
@@ -425,7 +425,15 @@
       \resumeItemListStart
 
 
-         \resumeItem{Led concept, basic, and detailed engineering. Simulated distillation columns in Aspen Plus and EDR, prepared PFDs, PIDs, equipment/line lists, and control philosophy. Supported commissioning and startup.}
+         \resumeItem{Executed a brownfield revamp project for 1,2,3-Trichlorobenzene (2000 TPA), covering concept, basic, and detailed engineering.}
+
+         \resumeItem{Performed process simulations of distillation columns and heat exchangers using Aspen Plus and Aspen EDR, validating separation efficiency, energy balance, and hydraulic performance}
+
+         \resumeItem{Developed and reviewed Process Flow Diagrams (PFDs), P\&IDs, equipment lists, line lists, and utility requirements in line with plant operability and safety standards}
+
+         \resumeItem{Prepared control philosophy and interlocks in coordination with automation teams to ensure safe startup and steady-state operation}
+
+         \resumeItem{Supported pre-startup, commissioning, and plant startup activities, resolving operational issues and ensuring smooth handover to operations}
 
     \resumeSubHeadingListEnd
 
@@ -439,9 +447,13 @@
 
       \resumeItemListStart
 
-         \resumeItem{Prepared concept proposals and feasibility studies, developed complete BEP, supported DEP, and performed process simulation and optimization, improving energy efficiency by up to 10\% through heat integration networks.}
-
-        \resumeItem{Participated in HAZOP studies and performed end-to-end plant commissioning, including pre-startup activities, ultimately handing over the plant to the operations team.}
+         \resumeItem{Executed a brownfield revamping project of a 760 TPD Sulphuric Acid Plant, implemented in two phases:}
+        \resumeItem{Phase-1: Furnace, Waste Heat Boiler (WHB), Converter, Blower}
+        \resumeItem{Phase-2: Absorber, Drying Tower, Acid Storage, Stack, Scrubber, and associated auxiliaries..}
+        \resumeItem{Prepared concept proposals and feasibility studies, developed the complete Basic Engineering Package (BEP), and supported Detailed Engineering (DEP) activities}
+        \resumeItem{Performed process simulation and optimization, achieving up to 10\% improvement in energy efficiency through effective heat integration networks}
+         \resumeItem{Actively participated in HAZOP studies, addressing operability and safety risks specific to brownfield constraints}
+        \resumeItem{Supported end-to-end plant commissioning, including pre-startup checks, performance monitoring, and final handover to operations.}
 
 
     \resumeSubHeadingListEnd
@@ -458,10 +470,19 @@
       \resumeItemListStart
 
 
-         \resumeItem{Conceptualization \& Engineering: Prepared concept proposals, and executed basic \& detailed engineering for the entire project, including technology transfer and scaling processes from pilot to commercial scale.}
+         \resumeItem{Executed a greenfield continuous nitration project (350 TPD), covering the complete process chain including nitration reactor system, separation columns, and crystallization section.}
 
+        \resumeItem{Prepared concept proposals and executed basic and detailed engineering, including technology transfer and scale-up from pilot plant to commercial operation.}
 
-        \resumeItem{Process \& Equipment Design: Designed major equipment, simulated distillation columns in Aspen Plus and EDR, verified column internals and hydraulics, and prepared PFDs, utility flow diagrams, plant layouts, P\&IDs, equipment lists, SOPs, SOCs, and mass/energy balances.}
+        \resumeItem{Performed process simulations using Aspen Plus and Aspen EDR for distillation columns and heat exchangers; verified column hydraulics, tray/packing selection, and internals design}
+
+        \resumeItem{Designed and reviewed major process equipment, ensuring compliance with process safety, operability, and design standards}
+
+        \resumeItem{Developed Process Flow Diagrams (PFDs), Utility Flow Diagrams (UFDs), P\&IDs, plant layouts, equipment lists, SOPs, SOCs, and complete mass \& energy balances.}
+
+        \resumeItem{Defined control philosophy and interlocks in coordination with automation teams for safe and stable plant operation}
+        
+        \resumeItem{Supported pre-startup activities, commissioning, and startup trials, followed by performance stabilization and final handover to the operations team.}
 
 
         \resumeItem{Commissioning \& Handover: Developed interlocks and control philosophy for Automation, performed pre-startup and commissioning activities, conducted startup trials, and handed over the plant to the operations team.}
