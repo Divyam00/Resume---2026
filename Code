@@ -189,17 +189,19 @@
 
     \resumeItem{Designed and simulated process systems and equipment such as columns, separators, pumps, reactors, and heat exchangers using Aspen Plus/HYSYS, and performed detailed heat exchanger design and rating (STHE, reboilers, condensers, PHEs) using Aspen EDR and HTRI.}
 
-    \resumeItem{Prepared operating and control documents including SOPs, SOCs, Control Philosophy, Interlock narratives, Cause \& Effect diagrams, and Alarm Lists.}
-
     \resumeItem{Supported proposal preparation, project scheduling, man-hour estimation, and deliverables planning to ensure adherence to quality, cost, and schedule requirements.}
 
-    \resumeItem{Coordinated with multidisciplinary teams (Mechanical, Piping, Instrumentation, Electrical, Civil) and participated in FAT/SAT activities to ensure design compliance and operational readiness.}
+    \resumeItem{Experienced in ASPEN One installation, configuration, and operation, including hands-on use of Aspen Plus, Aspen EDR, and related modules for process simulation and equipment design.}
 
+    \resumeItem{Proficient in Aspen data sheet customization and modifications, with strong working knowledge of Excel add-ins / data exchange functions for model input, result extraction, and engineering calculations}
+    
     \resumeItem{Performed flare studies and flare network analysis, including hydraulic simulations, flare load estimation, and system optimization to enhance process safety and operational efficiency.}
 
     \resumeItem{Executed relief and blowdown system design, including PSV sizing and depressurization studies in accordance with API 521.}
 
     \resumeItem{Conducted Flow Assurance studies including multiphase modeling, slugging analysis, hydrate formation assessment, and wax deposition evaluation, and provided mitigation recommendations based on analysis results.}
+
+    \resumeItem{Prepared operating and control documents including SOPs, SOCs, Control Philosophy, Interlock narratives, Cause \& Effect diagrams, and Alarm Lists.}
 
 
 \resumeItemListEnd
@@ -227,8 +229,6 @@
         \resumeItem{Perform equipment sizing and rating (pumps, compressors, vessels, columns, STHE, reboilers, condensers, PHEs) along with hydraulic calculations, line sizing, and control valve sizing.}
 
         \resumeItem{Carry out safety studies and design, including PSV sizing, vent sizing, control philosophy, interlocks, cause and effect diagrams, alarm lists, and safeguarding systems.}
-
-        \resumeItem{Support process intensification and debottlenecking studies to improve performance and efficiency of existing units.}
 
         \resumeItem{Prepare control philosophy, Cause and effect diagram, operational deliverables, including SOPs, SOCs, and commissioning/start-up support for new and revamped facilities.}
 
