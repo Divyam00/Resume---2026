@@ -176,62 +176,73 @@
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Utthunga Technologies}{April 2025 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India / Houston, TX, USA}
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} (EPC)}{Bengaluru, KA, India}
 
 
   \resumeItemListStart
 
-    \resumeItem{Led Concept Development, Feasibility Studies, FEED, and Detailed Engineering of Oil \& Gas EPC projects.}
+    \resumeItem{Execute process engineering activities for Concept, FEED, and Detailed Engineering of Oil & Gas and Petrochemical EPC projects.}
 
-    \resumeItem{Developed and reviewed Process Design Basis, process philosophies, engineering guidelines, and ensured compliance with applicable codes, standards, and client specifications through vendor document reviews.}
+    \resumeItem{Prepared key deliverables including Process Design Basis, PFDs, P\&IDs, Heat \& Material Balances, and process datasheets}
 
-    \resumeItem{Prepared and reviewed key engineering deliverables including PFDs, P\&IDs, Heat \& Material Balances, process datasheets, line sizing calculations, and utility summaries.}
+    \resumeItem{Performed process simulation and design validation using Aspen HYSYS and Aspen Plus.}
 
-    \resumeItem{Designed and simulated process systems and equipment such as columns, separators, pumps, reactors, and heat exchangers using Aspen Plus/HYSYS, and performed detailed heat exchanger design and rating (STHE, reboilers, condensers, PHEs) using Aspen EDR and HTRI.}
+    \resumeItem{Conducted thermal design and rating of heat exchangers using Aspen EDR and HTRI.}
 
-    \resumeItem{Supported proposal preparation, project scheduling, man-hour estimation, and deliverables planning to ensure adherence to quality, cost, and schedule requirements.}
+    \resumeItem{Performed relief and flare system analysis, including PSV sizing and depressurization studies as per American Petroleum Institute (API 520/521).}
 
-    \resumeItem{Experienced in ASPEN One installation, configuration, and operation, including hands-on use of Aspen Plus, Aspen EDR, and related modules for process simulation and equipment design.}
+    \resumeItem{Developed process control and safety documentation such as Control Philosophy, Cause \& Effect diagrams, and Interlock Narratives}
 
-    \resumeItem{Proficient in Aspen data sheet customization and modifications, with strong working knowledge of Excel add-ins / data exchange functions for model input, result extraction, and engineering calculations}
-    
-    \resumeItem{Performed flare studies and flare network analysis, including hydraulic simulations, flare load estimation, and system optimization to enhance process safety and operational efficiency.}
-
-    \resumeItem{Executed relief and blowdown system design, including PSV sizing and depressurization studies in accordance with API 521.}
-
-    \resumeItem{Conducted Flow Assurance studies including multiphase modeling, slugging analysis, hydrate formation assessment, and wax deposition evaluation, and provided mitigation recommendations based on analysis results.}
-
-    \resumeItem{Prepared operating and control documents including SOPs, SOCs, Control Philosophy, Interlock narratives, Cause \& Effect diagrams, and Alarm Lists.}
+    \resumeItem{Coordinated with multidisciplinary teams and reviewed vendor documents to ensure compliance with project specifications and standards.}
 
 
 \resumeItemListEnd
 
-
-
 \resumeSubHeadingListEnd
- 
 
 
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Aarti Industries LTD - Green field / Brown field Projects }{May 2022 – April 2025}{\textbf{Process Technical Engineer}}{Vapi, GJ, India}
+  \resumeSubheading{Utthunga Technologies}{April 2025 – March 2026}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
 
+
+  \resumeItemListStart
+
+    \resumeItem{Delivered FEED Basic Engineering for Oil \& Gas EPC projects..}
+
+    \resumeItem{Prepared key deliverables including PFDs, P\&IDs, Heat \& Material Balances, datasheets, line sizing, and utility summaries.}
+
+    \resumeItem{Prepared and reviewed key deliverables including PFDs, P\&IDs, Heat \& Material Balances, process datasheets, line sizing calculations, and utility summaries.}
+
+    \resumeItem{Performed process simulation and equipment design (columns, separators, pumps, reactors, heat exchangers) using Aspen HYSYS/Aspen Plus, with exchanger design and rating in Aspen EDR and HTRI.}
+
+    \resumeItem{Conducted relief, blowdown, and flare system studies including hydraulic simulations and load estimation as per API 521.}
+
+    \resumeItem{Performed flow assurance analysis (multiphase flow, slugging, hydrate and wax formation).}
+
+    \resumeItem{Supported proposal development, project scheduling, and man-hour estimation, ensuring project delivery aligned with quality, cost, and schedule requirements.}
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+\resumeSubHeadingListStart
+
+  \resumeSubheading{Aarti Industries LTD - Green field / Brown field Projects }{May 2022 – April 2025}{\textbf{Process Technical Engineer}}{Vapi, GJ, India}
 
      \resumeItemListStart
 
-        \resumeItem{Prepare BEP \& FEED packages for Greenfield and Brownfield projects, including concept note preparation, feasibility studies, and cost/profitability analysis.}
+        \resumeItem{Supported Greenfield and Brownfield project engineering, including feasibility studies, BEP/FEED preparation, and cost analysis.}
 
-        \resumeItem{Develop process design deliverables such as PFDs, PIDs, PDS/IPDS, Heat and Mass Balance, utility calculations, Datasheets, and process philosophies.}
+        \resumeItem{Developed process deliverables including PFDs, P&IDs, Heat & Mass Balances, datasheets, and process philosophies.}
         
         \resumeItem{Conduct process simulations and equipment design (distillation columns, reactors, pumps, heat exchangers, etc.) using Aspen Plus, Aspen HYSYS, Aspen EDR, and HTRI.}
 
         \resumeItem{Perform equipment sizing and rating (pumps, compressors, vessels, columns, STHE, reboilers, condensers, PHEs) along with hydraulic calculations, line sizing, and control valve sizing.}
 
-        \resumeItem{Carry out safety studies and design, including PSV sizing, vent sizing, control philosophy, interlocks, cause and effect diagrams, alarm lists, and safeguarding systems.}
-
-        \resumeItem{Prepare control philosophy, Cause and effect diagram, operational deliverables, including SOPs, SOCs, and commissioning/start-up support for new and revamped facilities.}
-
+        \resumeItem{Supported plant commissioning, start-up, and operational documentation (SOPs, SOCs).}
 
     \resumeItemListEnd
 
@@ -248,8 +259,6 @@
 
   \resumeSubHeadingListStart
 
-
- 
     \resumeSubheading{Aspen Plus User Certificate}{June 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
 
     \resumeSubheading{Aspen HYSYS User Certificate}{Jun 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
@@ -289,10 +298,9 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{Utthunga Technologies}{April 2025 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India / Houston, TX, USA}
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} }{Bengaluru, KA, India}
 
     \resumeSubHeadingListEnd
-
 \resumeSubHeadingListStart
 
 
@@ -321,6 +329,14 @@
 
       \resumeItemListEnd
 
+\smallskip
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Utthunga Technologies}{April 2025 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
+
+    \resumeSubHeadingListEnd
 
 
   \resumeSubHeadingListStart
@@ -388,8 +404,6 @@
 
 
     \resumeSubHeadingListEnd
-
-\pagebreak % New Page added / Page break
 
       \resumeItemListEnd
       
@@ -501,7 +515,9 @@
 
       \resumeItemListStart
 
-         \resumeItem{Focused on process optimization and capacity enhancement. Identified bottlenecks, proposed design changes, and supported full-scale commissioning.}
+         \resumeItem{Focused on process optimization and plant capacity enhancement by analyzing operations, identifying bottlenecks, and recommending design improvements}
+
+         \resumeItem{Supported implementation and full-scale commissioning, ensuring smooth start-up and improved operational performance}
 
     \resumeSubHeadingListEnd
 
