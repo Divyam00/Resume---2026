@@ -236,7 +236,7 @@
 
         \resumeItem{Supported Greenfield and Brownfield project engineering, including feasibility studies, BEP/FEED preparation, and cost analysis.}
 
-        \resumeItem{Developed process deliverables including PFDs, P&IDs, Heat & Mass Balances, datasheets, and process philosophies.}
+        \resumeItem{Developed process deliverables including PFDs, P\&IDs, Heat \& Mass Balances, datasheets, and process philosophies.}
         
         \resumeItem{Conduct process simulations and equipment design (distillation columns, reactors, pumps, heat exchangers, etc.) using Aspen Plus, Aspen HYSYS, Aspen EDR, and HTRI.}
 
@@ -304,7 +304,7 @@
 \resumeSubHeadingListStart
 
 
-    \resumeSubheading{NGFCP Project (Flare Gas Recovery) (Concept \& FEED)}{July 2025 - Sept 2025}{Client - Conoil Plc, Nigeria}{Obiafu–Obrikom Cluster, Nigeria | NGFCP Development}
+    \resumeSubheading{NGFCP Project (Flare Gas Recovery) (Concept \& FEED)}{March 2025 - Present}{Client - Conoil Plc, Nigeria}{Obiafu–Obrikom Cluster, Nigeria | NGFCP Development}
 
 
       \resumeItemListStart
@@ -341,8 +341,27 @@
 
   \resumeSubHeadingListStart
 
+    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck)}{Dec 2025 - March 2025}{Client - Honeywell}{MOL Hungarian Oil company, Budapest, HU }
 
-    \resumeSubheading{Oasis Water Project (Produced Water Desalination) (FEED)}{July 2025 - Sept 2025}{Client - TETRA Technologies LLC, TX, USA}{EOG - TX, USA }
+
+      \resumeItemListStart
+
+    \resumeItem{Executed a comprehensive flare network analysis project in collaboration with Honeywell to ensure safe, reliable, and code-compliant flare system design in accordance with API 521 and industry standards.}
+
+    \resumeItem{Performed detailed hydraulic simulations, pressure drop and backpressure analysis, relief load verification, and emergency scenario assessment to validate system adequacy under normal, upset, and emergency conditions.}
+
+    \resumeItem{Identified system bottlenecks, recommended network optimization measures including header sizing and routing improvements, and prepared detailed technical reports and calculation documents for client review and approval.}
+
+\resumeSubHeadingListEnd
+
+\resumeItemListEnd
+
+      
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Oasis Water Project (Produced Water Desalination) (FEED)}{July 2025 - Dec 2025}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
 
 
       \resumeItemListStart
@@ -368,29 +387,11 @@
 
       \resumeItemListEnd
 
-  \resumeSubHeadingListStart
-
-    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck)}{June 2025 - June 2025}{Client - Honeywell, USA}{MOL Hungarian Oil company, Budapest, HU }
-
-
-      \resumeItemListStart
-
-    \resumeItem{Executed a comprehensive flare network analysis project in collaboration with Honeywell to ensure safe, reliable, and code-compliant flare system design in accordance with API 521 and industry standards.}
-
-    \resumeItem{Performed detailed hydraulic simulations, pressure drop and backpressure analysis, relief load verification, and emergency scenario assessment to validate system adequacy under normal, upset, and emergency conditions.}
-
-    \resumeItem{Identified system bottlenecks, recommended network optimization measures including header sizing and routing improvements, and prepared detailed technical reports and calculation documents for client review and approval.}
-
-\resumeSubHeadingListEnd
-
-\resumeItemListEnd
-
-      
 
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{Oil Custody Transfer Terminal \& LACT Unit (ExxonMobil)}{April 2025 - May 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
+    \resumeSubheading{Oil Custody Transfer Terminal \& LACT Unit (ExxonMobil)}{April 2025 - June 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
 
 
       \resumeItemListStart
