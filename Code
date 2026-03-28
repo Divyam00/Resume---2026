@@ -148,7 +148,6 @@
 
 \end{center}
  
- 
 %-----------EDUCATION-----------
 
 
@@ -176,12 +175,12 @@
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} (EPC)}{Bengaluru, KA, India}
+  \resumeSubheading{Tecnicas Reunidas Engineers India (TR).}{March 2026 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
 
 
   \resumeItemListStart
 
-    \resumeItem{Execute process engineering activities for Concept, FEED, and Detailed Engineering of Oil & Gas and Petrochemical EPC projects.}
+    \resumeItem{Execute process engineering activities for Concept, FEED, and Detailed Engineering of Oil \& Gas and Petrochemical EPC projects.}
 
     \resumeItem{Prepared key deliverables including Process Design Basis, PFDs, P\&IDs, Heat \& Material Balances, and process datasheets}
 
@@ -189,7 +188,7 @@
 
     \resumeItem{Conducted thermal design and rating of heat exchangers using Aspen EDR and HTRI.}
 
-    \resumeItem{Performed relief and flare system analysis, including PSV sizing and depressurization studies as per American Petroleum Institute (API 520/521).}
+    \resumeItem{Performed relief and flare system analysis, including PSV sizing and depressurization studies as per API (API 520/521).}
 
     \resumeItem{Developed process control and safety documentation such as Control Philosophy, Cause \& Effect diagrams, and Interlock Narratives}
 
@@ -283,7 +282,8 @@
 
     \resumeItem{\textbf{Process Simulation:} Aspen HYSYS, Aspen Plus, Pro-II}
     \resumeItem{\textbf{HeatEX Design and Rating:} Aspen EDR, HTRI}
-    \resumeItem{\textbf{Flare study Software:} Flare System Analyzer, UniSim Flare}    			 \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
+    \resumeItem{\textbf{Flare Network \& Dispersion study Software:} Flare System Analyzer, UniSim Flare, SLB FlareSim}    			
+    \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
     
 
   \resumeSubHeadingListEnd
@@ -292,13 +292,13 @@
 %-----------PROJECTS-----------
 
 
-\section{EPC Projects (Oil \& Gas)}
+\section{Professional Experience - EPC Projects (Oil \& Gas)}
 
 
   \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} }{Bengaluru, KA, India}
+  \resumeSubheading{Tecnicas Reunidas Engineers India (TR) }{March 2026 – Present}{\textbf{Process Engineer} }{Bengaluru, KA, India}
 
     \resumeSubHeadingListEnd
 \resumeSubHeadingListStart
@@ -411,11 +411,10 @@
   \resumeSubHeadingListStart
 
 
-\section{Brown field \& Grean field Projects (Chemicals)}
+\section{Professional Experience - Brown Field \& Grean Field Projects (Chemicals)}
 
 
- 
-    \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
+     \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
 
     \resumeSubHeadingListEnd
 
