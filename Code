@@ -143,10 +143,13 @@
 \faEnvelope~\href{mailto:savaliyadivyam007@gmail.com}{savaliyadivyam007@gmail.com} \quad
 
 \faLinkedin~\href{https://www.linkedin.com/in/divyamsavaliya/}{Divyam Savaliya} \quad
-\faGithub~\href{https://github.com/Divyam00}{Divyam00}
+\faGithub~\href{https://github.com/Divyam00}{Divyam00     }
+\faGlobe~\href{https://yourwebsite.com}{Portfolio}
+
 
 
 \end{center}
+ 
  
 %-----------EDUCATION-----------
 
@@ -175,12 +178,12 @@
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Tecnicas Reunidas Engineers India (TR).}{March 2026 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} (EPC)}{Bengaluru, KA, India}
 
 
   \resumeItemListStart
 
-    \resumeItem{Execute process engineering activities for Concept, FEED, and Detailed Engineering of Oil \& Gas and Petrochemical EPC projects.}
+    \resumeItem{Execute process engineering activities for Concept, FEED, and Detailed Engineering of Oil & Gas and Petrochemical EPC projects.}
 
     \resumeItem{Prepared key deliverables including Process Design Basis, PFDs, P\&IDs, Heat \& Material Balances, and process datasheets}
 
@@ -188,7 +191,7 @@
 
     \resumeItem{Conducted thermal design and rating of heat exchangers using Aspen EDR and HTRI.}
 
-    \resumeItem{Performed relief and flare system analysis, including PSV sizing and depressurization studies as per API (API 520/521).}
+    \resumeItem{Performed relief and flare system analysis, including PSV sizing and depressurization studies as per American Petroleum Institute (API 520/521).}
 
     \resumeItem{Developed process control and safety documentation such as Control Philosophy, Cause \& Effect diagrams, and Interlock Narratives}
 
@@ -282,8 +285,7 @@
 
     \resumeItem{\textbf{Process Simulation:} Aspen HYSYS, Aspen Plus, Pro-II}
     \resumeItem{\textbf{HeatEX Design and Rating:} Aspen EDR, HTRI}
-    \resumeItem{\textbf{Flare Network \& Dispersion study Software:} Flare System Analyzer, UniSim Flare, SLB FlareSim}    			
-    \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
+    \resumeItem{\textbf{Flare study Software:} Flare System Analyzer, UniSim Flare}    			 \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
     
 
   \resumeSubHeadingListEnd
@@ -292,42 +294,40 @@
 %-----------PROJECTS-----------
 
 
-\section{Professional Experience - EPC Projects (Oil \& Gas)}
+\section{EPC Projects (Oil \& Gas)}
 
 
   \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Tecnicas Reunidas Engineers India (TR) }{March 2026 – Present}{\textbf{Process Engineer} }{Bengaluru, KA, India}
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer - I} }{Bengaluru, KA, India}
 
     \resumeSubHeadingListEnd
 \resumeSubHeadingListStart
 
+\resumeSubheading{Dalma Gas Development Project (Associate Gas Gathering \& Processing)}{2025 - Present}{Client - ADNOC, Abu Dhabi}{Offshore Abu Dhabi, UAE}
 
-    \resumeSubheading{NGFCP Project (Flare Gas Recovery) (Concept \& FEED)}{March 2025 - Present}{Client - Conoil Plc, Nigeria}{Obiafu–Obrikom Cluster, Nigeria | NGFCP Development}
+\resumeItemListStart
 
+\resumeItem{Assigned to the Condensate Recovery and Export section of the upstream associate gas gathering facility, contributing to process design and detailed engineering deliverables for a major offshore gas development project.}
 
-      \resumeItemListStart
+\resumeItem{Developed Process Flow Diagrams (PFDs) and P\&IDs for condensate stabilization, recovery, and export systems, ensuring compliance with ADNOC standards and project specifications.}
 
+\resumeItem{Performed PSV sizing and relief load calculations for multiple scenarios including blocked outlet, fire case, and control valve failure, ensuring compliance with API 520/521 and safe system design.}
 
-         \resumeItem{Led feasibility study and Front-End Engineering Design (FEED) for a 15 MMSCFD modular Flare Gas Recovery and LPG Extraction Facility under NGFCP, defining process design basis, peak capacity of 22 MMSCFD, and 40\% turndown capability to ensure operational flexibility and commercial viability.}
-         
-         \resumeItem{Developed integrated Aspen HYSYS simulation model covering multi-stage compression (1–35 barg), MDEA amine sweetening, TEG dehydration, and refrigeration-based NGL recovery; generated detailed Heat \& Material Balance and forecasted LPG production of ~80 TPD.}
+\resumeItem{Executed line sizing and hydraulic analysis for multiphase and hydrocarbon systems, including pressure drop calculations, pump suction/discharge verification, and system optimization.}
 
-         \resumeItem{Performed equipment sizing and thermodynamic calculations including compressor power estimation (~3 MW), refrigeration duty (~4 MW), amine circulation rate, reboiler duty, separator sizing, and total plant utility demand assessment (~7 MW).}
+\resumeItem{Carried out pump sizing and hydraulic calculations, including NPSH evaluation, pump head estimation, and selection support for condensate export services.}
 
-         \resumeItem{Prepared Process Design Basis (PDB), Process Flow Diagrams (PFDs), P\&IDs, H\&MB, Utility calculations \& Summary, equipment specifications, and preliminary control philosophy including anti-surge protection and ESD integration in compliance with API/ASME standards.}
-         
-         \resumeItem{Executed techno-commercial evaluation of GTW, GTL, LPG recovery, Mini-LNG, and CNG monetization routes.}
-         
-         \resumeItem{Developed order-of-magnitude CAPEX estimate (±30\%) and 10-year financial model with sensitivity analysis on gas composition variability and LPG price fluctuations to support investment-grade feasibility and NGFCP compliance.}
+\resumeItem{Performed design and rating of key process equipment including columns and absorbers, covering tray/packing selection, mass transfer considerations, and operating parameter optimization.}
 
+\resumeItem{Designed heat exchangers for multiple operating scenarios (normal, turndown, start-up, and upset cases), including thermal design, duty calculation, and exchanger configuration selection.}
 
+\resumeItem{Coordinated with multidisciplinary teams to deliver engineering packages, ensuring alignment with offshore design constraints, operability, and project timelines.}
 
-    \resumeSubHeadingListEnd
+\resumeItemListEnd
 
-
-      \resumeItemListEnd
+\resumeSubHeadingListEnd
 
 \smallskip
 
@@ -411,10 +411,11 @@
   \resumeSubHeadingListStart
 
 
-\section{Professional Experience - Brown Field \& Grean Field Projects (Chemicals)}
+\section{Brown field \& Grean field Projects (Chemicals)}
 
 
-     \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
+ 
+    \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
 
     \resumeSubHeadingListEnd
 
