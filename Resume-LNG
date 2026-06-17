@@ -1,0 +1,529 @@
+%-------------------------
+
+
+% Resume in Latex - Divyam Hybrid Systems Version
+
+
+% Based off Jake Gutierrez template
+
+
+%-------------------------
+ 
+\documentclass[letterpaper,10.5pt]{article}
+ 
+\usepackage{latexsym}
+
+
+\usepackage[empty]{fullpage}
+
+
+\usepackage{titlesec}
+
+
+\usepackage{marvosym}
+
+
+\usepackage{fontawesome5}
+
+
+\usepackage[usenames,dvipsnames]{color}
+
+
+\usepackage{verbatim}
+
+
+\usepackage{enumitem}
+
+
+\usepackage[hidelinks]{hyperref}
+
+
+\usepackage{fancyhdr}
+
+
+\usepackage[english]{babel}
+
+
+\usepackage{tabularx}
+
+
+\input{glyphtounicode}
+ 
+\pagestyle{fancy}
+
+
+\fancyhf{}
+
+
+\renewcommand{\headrulewidth}{0pt}
+
+
+\renewcommand{\footrulewidth}{0pt}
+ 
+\addtolength{\oddsidemargin}{-0.5in}
+
+
+\addtolength{\evensidemargin}{-0.5in}
+
+
+\addtolength{\textwidth}{1in}
+
+
+\addtolength{\topmargin}{-.5in}
+
+
+\addtolength{\textheight}{1.0in}
+ 
+\urlstyle{same}
+ 
+\raggedbottom
+
+
+\raggedright
+
+
+\setlength{\tabcolsep}{0in}
+ 
+\titleformat{\section}{\vspace{-4pt}\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+
+\pdfgentounicode=1
+ 
+% Custom commands
+
+
+\newcommand{\resumeItem}[1]{\item\small{#1 \vspace{-2pt}}}
+ 
+\newcommand{\resumeSubheading}[4]{
+
+
+  \vspace{-2pt}\item
+
+
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+
+
+      \textbf{#1} & #2 \\
+
+
+      \textit{\small#3} & \textit{\small #4} \\
+
+
+    \end{tabular*}\vspace{-7pt}
+
+
+}
+ 
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} 
+
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+
+
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+ 
+%-------------------------------------------
+ 
+\begin{document}
+ 
+%----------HEADING----------
+
+
+\begin{center}
+
+
+    {\Huge \scshape Divyam Savaliya} \\ \vspace{8pt}
+
+
+\faMapMarker*~Bengaluru, KA \quad 
+\faPhone*~+91 8460319976 \quad
+\faEnvelope~\href{mailto:savaliyadivyam007@gmail.com}{savaliyadivyam007@gmail.com} \quad
+
+\faLinkedin~\href{https://www.linkedin.com/in/divyamsavaliya/}{Divyam Savaliya} \quad
+\faGithub~\href{https://github.com/Divyam00}{Divyam00} \quad
+
+
+
+\end{center}
+ 
+ 
+%-----------EDUCATION-----------
+
+
+\section{Education}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Dharamsinh Desai University, Nadiad}{2019 - 2022}{B.Tech in Chemical Engineering}{CPI - 8.54}
+
+    \vspace{\baselineskip} 
+  
+    \resumeSubheading{Gujarat Technological University, Ahmedabad}{2016 - 2019}{Diploma in Chemical Engineering}{CPI - 9.15}
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROFESSIONAL EXPERIENCE-----------
+
+
+\section{Experience}
+
+
+\resumeSubHeadingListStart
+
+
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer } (EPC-FEED)}{Bengaluru, KA, India}
+
+
+  \resumeItemListStart
+
+    \resumeItem{Execute process engineering activities for the FEED of a large-scale LNG liquefaction and export terminal, supporting gas pre-treatment, liquefaction, LNG storage, boil-off gas, and utility systems. }
+
+    \resumeItem{Prepare key FEED deliverables including Process Design Basis, Heat \& Material Balances (HMBs), Process Flow Diagrams (PFDs), Utility Flow Diagrams (UFDs), Process Datasheets, and design calculations.}
+
+    \resumeItem{Perform steady-state process simulation using Aspen HYSYS to validate process performance, establish design cases, and support equipment sizing for normal, start-up, turndown, and upset conditions }
+
+    \resumeItem{Develop process datasheets and size major equipment including separators, scrubbers, heat exchangers, pumps, compressors, air coolers, and cryogenic equipment.}
+
+    \resumeItem{Perform hydraulic calculations including line sizing, pressure drop analysis, control valve sizing, and pump hydraulic verification for hydrocarbon, refrigerant, LNG, and utility systems.}
+
+    \resumeItem{Carry out PSV sizing, relief load estimation, depressurization studies, and flare system analysis in accordance with API 520/521 and project standards }
+
+    \resumeItem{Support thermal design and rating of heat exchangers using Aspen EDR and HTRI for multiple operating scenarios.}
+
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+\resumeSubHeadingListStart
+
+
+  \resumeSubheading{Utthunga Technologies}{April 2025 – March 2026}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
+
+
+  \resumeItemListStart
+
+    \resumeItem{Delivered FEED Basic Engineering for Oil \& Gas EPC projects..}
+
+    \resumeItem{Prepared key deliverables including PFDs, P\&IDs, Heat \& Material Balances, datasheets, line sizing, and utility summaries.}
+
+    \resumeItem{Prepared and reviewed key deliverables including PFDs, P\&IDs, Heat \& Material Balances, process datasheets, line sizing calculations, and utility summaries.}
+
+    \resumeItem{Performed process simulation and equipment design (columns, separators, pumps, reactors, heat exchangers) using Aspen HYSYS/Aspen Plus, with exchanger design and rating in Aspen EDR and HTRI.}
+
+    \resumeItem{Conducted relief, blowdown, and flare system studies including hydraulic simulations and load estimation as per API 521.}
+
+    \resumeItem{Performed flow assurance analysis (multiphase flow, slugging, hydrate and wax formation).}
+
+    \resumeItem{Supported proposal development, project scheduling, and man-hour estimation, ensuring project delivery aligned with quality, cost, and schedule requirements.}
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+\resumeSubHeadingListStart
+
+  \resumeSubheading{Aarti Industries LTD - Green field / Brown field Projects }{May 2022 – April 2025}{\textbf{Process Technical Engineer}}{Vapi, GJ, India}
+
+     \resumeItemListStart
+
+        \resumeItem{Supported Greenfield and Brownfield project engineering, including feasibility studies, BEP/FEED preparation, and cost analysis.}
+
+        \resumeItem{Developed process deliverables including PFDs, P\&IDs, Heat \& Mass Balances, datasheets, and process philosophies.}
+        
+        \resumeItem{Conduct process simulations and equipment design (distillation columns, reactors, pumps, heat exchangers, etc.) using Aspen Plus, Aspen HYSYS, Aspen EDR, and HTRI.}
+
+        \resumeItem{Perform equipment sizing and rating (pumps, compressors, vessels, columns, STHE, reboilers, condensers, PHEs) along with hydraulic calculations, line sizing, and control valve sizing.}
+
+        \resumeItem{Supported plant commissioning, start-up, and operational documentation (SOPs, SOCs).}
+
+    \resumeItemListEnd
+
+
+\resumeSubHeadingListEnd
+ 
+
+ 
+%-----------Certifications and Courses-----------
+
+
+\section{Certifications And Courses}
+
+
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{Aspen Plus User Certificate}{June 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
+
+    \resumeSubheading{Aspen HYSYS User Certificate}{Jun 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
+
+    \resumeSubheading{Process Design Engineering and Advance Software Training }{Mar 2024 -- May 2024}{Converge Engineering}{Converge Engineering - Online, India}
+
+    \resumeSubheading{Flare Study and safety analysis}{June 2025 -- July 2025}{ChemKlub India}{ChemKlub India - Online, India}
+
+
+  \resumeSubHeadingListEnd
+
+
+ 
+%-----------TECHNICAL SKILLS-----------
+
+
+\section{Softwares \& Skills}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeItem{\textbf{Process Simulation:} Aspen HYSYS, Aspen Plus, Pro-II}
+    \resumeItem{\textbf{HeatEX Design and Rating:} Aspen EDR, HTRI}
+    \resumeItem{\textbf{Flare study Software:} Flare System Analyzer, UniSim Flare}    			 \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
+    
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+
+
+\section{EPC Projects (Oil \& Gas)}
+
+
+  \resumeSubHeadingListStart
+
+
+  \resumeSubheading{Tecnicas Reunidas}{March 2026 – Present}{\textbf{Process Engineer } }{Bengaluru, KA, India}
+
+    \resumeSubHeadingListEnd
+\resumeSubHeadingListStart
+
+\resumeSubheading{Coastal Blend LNG FEED (Gas Treatment, Liquefaction  \& Export)}{2025 - Present}{Client - COASTAL BEND LNG}{Texas, USA}
+
+\resumeItemListStart
+
+\resumeItem{Assigned to the LNG liquefaction and export terminal FEED project, contributing to process engineering activities for gas pre-treatment, liquefaction, LNG storage, boil-off gas handling, and export facilities in accordance with project design basis and applicable industry standards. .}
+
+\resumeItem{Developed and reviewed Process Flow Diagrams (PFDs), Heat \& Material Balances (HMBs), Utility Flow Diagrams (UFDs), and Process Datasheets for major process units, ensuring compliance with project specifications and client requirements.}
+
+\resumeItem{Performed process simulation using Aspen HYSYS to establish design cases, evaluate operating scenarios, validate process performance, and support equipment sizing for normal, start-up, turndown, and upset operating conditions .}
+
+\resumeItem{Executed process equipment sizing and preparation of process datasheets for separators, scrubbers, columns, heat exchangers, pumps, compressors, and air coolers based on FEED design philosophy and process simulation results. }
+
+\resumeItem{Carried out hydraulic calculations including line sizing, pressure drop analysis, control valve sizing, pump hydraulic verification, and system optimization for hydrocarbon, refrigerant, utility, and LNG service lines.}
+
+\resumeItem{Performed pressure relief system design including PSV sizing, relief load estimation, flare load calculations, and flare network evaluation for credible overpressure scenarios in accordance with API 520, API 521, and project design standards.}
+
+\resumeItem{Supported thermal design and process evaluation of heat exchangers, including duty calculations, stream analysis, operating case verification, and exchanger configuration selection to meet process and operability requirements.}
+
+\resumeItem{Participated in FEED engineering deliverables including process design basis, equipment specifications, process calculations, line lists, utility summaries, cause and effect review support, and multidisciplinary design coordination to ensure technical integrity and project schedule compliance.}
+
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\smallskip
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Utthunga Technologies}{April 2025 – Present}{\textbf{Process Engineer} (EPC)}{Bengaluru, KA, India}
+
+    \resumeSubHeadingListEnd
+
+
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck)}{Dec 2025 - March 2025}{Client - Honeywell}{MOL Hungarian Oil company, Budapest, HU }
+
+
+      \resumeItemListStart
+
+    \resumeItem{Executed a comprehensive flare network analysis project in collaboration with Honeywell to ensure safe, reliable, and code-compliant flare system design in accordance with API 521 and industry standards.}
+
+    \resumeItem{Performed detailed hydraulic simulations, pressure drop and backpressure analysis, relief load verification, and emergency scenario assessment to validate system adequacy under normal, upset, and emergency conditions.}
+
+    \resumeItem{Identified system bottlenecks, recommended network optimization measures including header sizing and routing improvements, and prepared detailed technical reports and calculation documents for client review and approval.}
+
+\resumeSubHeadingListEnd
+
+\resumeItemListEnd
+
+      
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Oasis Water Project (Produced Water Desalination) (FEED)}{July 2025 - Dec 2025}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Contributed to the development of an advanced Hybrid Desalination System in collaboration with Honeywell, integrating membrane-based and thermal desalination technologies to enhance overall water recovery and energy efficiency. The project focused on optimizing process integration between membrane separation and thermal treatment systems to achieve improved performance over conventional standalone technologies.}
+
+
+        \resumeItem{Performed detailed process design, simulation, and optimization studies to evaluate system performance, recovery rates, specific energy consumption, and operational reliability.}
+        
+        \resumeItem{Developed process models to analyze different operating scenarios and identify opportunities for efficiency improvement and cost reduction.}
+
+
+        \resumeItem{Prepared key engineering deliverables including PFDs, P\&IDs, Mass\& Energy Balances, and equipment datasheets.}
+        
+        \resumeItem{Conducted technical feasibility assessments and supported scale-up evaluation for pilot-to-commercial deployment.}
+        
+        \resumeItem{Coordinated closely with multidisciplinary engineering teams to validate process design, ensure technical integrity, and align with project performance targets.}
+
+
+    \resumeSubHeadingListEnd
+
+
+      \resumeItemListEnd
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Oil Custody Transfer Terminal \& LACT Unit (ExxonMobil)}{April 2025 - June 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Performed equipment sizing and hydraulic calculations using Aspen HYSYS and OLGA. And Developed and reviewed PFDs, P\&IDs, and process datasheets.}
+
+
+        \resumeItem{Executed process design for Lease Automatic Custody Transfer (LACT) units in line with ExxonMobil standards.}
+
+
+
+    \resumeSubHeadingListEnd
+
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListStart
+
+
+\section{Brown field \& Grean field Projects (Chemicals)}
+
+
+ 
+    \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
+
+    \resumeSubHeadingListEnd
+
+
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{Trident - II (450 TPD)}{Oct 2024 - March 2025}{Site - Brown Field - Organic Division}{Vapi - GJ, IND }
+
+      \resumeItemListStart
+
+
+         \resumeItem{Involved in concept development and feasibility study for a new ONCB chlorination unit. Supporting preliminary process design, capacity evaluation, and identification of critical equipment and utility requirements in alignment with project objectives.}
+
+    \resumeSubHeadingListEnd
+      \resumeItemListEnd
+
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{1,2,3-TCB Project (2000 TPA)}{April 2024 - Oct 2024}{Site - Brown Field - Nascent Division}{Vapi - GJ, IND }
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Executed a brownfield revamp project for 1,2,3-Trichlorobenzene (2000 TPA), covering concept, basic, and detailed engineering.}
+
+         \resumeItem{Performed process simulations of distillation columns and heat exchangers using Aspen Plus and Aspen EDR, validating separation efficiency, energy balance, and hydraulic performance}
+
+         \resumeItem{Developed and reviewed Process Flow Diagrams (PFDs), P\&IDs, equipment lists, line lists, and utility requirements in line with plant operability and safety standards}
+
+         \resumeItem{Prepared control philosophy and interlocks in coordination with automation teams to ensure safe startup and steady-state operation}
+
+         \resumeItem{Supported pre-startup, commissioning, and plant startup activities, resolving operational issues and ensuring smooth handover to operations}
+
+    \resumeSubHeadingListEnd
+
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Acid Plant (760 TPD)}{April 2023 - April 2024}{Site - Broun Field - Acid Division}{Vapi - GJ, IND }
+
+
+      \resumeItemListStart
+
+         \resumeItem{Executed a brownfield revamping project of a 760 TPD Sulphuric Acid Plant, implemented in two phases:}
+        \resumeItem{Phase-1: Furnace, Waste Heat Boiler (WHB), Converter, Blower}
+        \resumeItem{Phase-2: Absorber, Drying Tower, Acid Storage, Stack, Scrubber, and associated auxiliaries..}
+        \resumeItem{Prepared concept proposals and feasibility studies, developed the complete Basic Engineering Package (BEP), and supported Detailed Engineering (DEP) activities}
+        \resumeItem{Performed process simulation and optimization, achieving up to 10\% improvement in energy efficiency through effective heat integration networks}
+         \resumeItem{Actively participated in HAZOP studies, addressing operability and safety risks specific to brownfield constraints}
+        \resumeItem{Supported end-to-end plant commissioning, including pre-startup checks, performance monitoring, and final handover to operations.}
+
+
+    \resumeSubHeadingListEnd
+
+
+      \resumeItemListEnd
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{MCB Continuous Nitration, Column and Crystallizer (350 TPD)}{Oct 2022 - May 2023}{Site - Green Field - Organic Division}{Vapi - GJ, IND }
+
+
+      \resumeItemListStart
+
+         \resumeItem{Executed a greenfield continuous nitration project (350 TPD), covering the complete process chain including nitration reactor system, separation columns, and crystallization section.}
+
+        \resumeItem{Prepared concept proposals and executed basic and detailed engineering, including technology transfer and scale-up from pilot plant to commercial operation.}
+
+        \resumeItem{Performed process simulations using Aspen Plus and Aspen EDR for distillation columns and heat exchangers; verified column hydraulics, tray/packing selection, and internals design}
+
+        \resumeItem{Designed and reviewed major process equipment, ensuring compliance with process safety, operability, and design standards}
+
+        \resumeItem{Developed Process Flow Diagrams (PFDs), Utility Flow Diagrams (UFDs), P\&IDs, plant layouts, equipment lists, SOPs, SOCs, and complete mass \& energy balances.}
+
+        \resumeItem{Defined control philosophy and interlocks in coordination with automation teams for safe and stable plant operation}
+        
+        \resumeItem{Supported pre-startup activities, commissioning, and startup trials, followed by performance stabilization and final handover to the operations team.}
+
+
+        \resumeItem{Commissioning \& Handover: Developed interlocks and control philosophy for Automation, performed pre-startup and commissioning activities, conducted startup trials, and handed over the plant to the operations team.}
+
+
+    \resumeSubHeadingListEnd
+
+
+      \resumeItemListEnd
+   
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{ONA-ONCB Capacity Enhancement }{July 2022 - Oct 2023}{Site - Brown Field – Amin Division }{Vapi - GJ, IND }
+
+
+      \resumeItemListStart
+
+         \resumeItem{Focused on process optimization and plant capacity enhancement by analyzing operations, identifying bottlenecks, and recommending design improvements}
+
+         \resumeItem{Supported implementation and full-scale commissioning, ensuring smooth start-up and improved operational performance}
+
+    \resumeSubHeadingListEnd
+
+
+
+\resumeItemListEnd
+
+\end{document}
+ 
